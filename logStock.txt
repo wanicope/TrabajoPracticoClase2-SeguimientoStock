@@ -1,0 +1,3 @@
+Nuevo Movimiento Fecha: 2222-02-12 - Movimiento: Compra - Cantidad: 1 - Producto: Milanesa
+Nuevo Movimiento Fecha: 0222-02-22 - Movimiento: Venta - Cantidad: 2 - Producto: Papas
+Nuevo Movimiento Fecha: 0444-04-04 - Movimiento: Venta - Cantidad: 3 - Producto: Tarta
